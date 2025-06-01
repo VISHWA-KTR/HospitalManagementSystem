@@ -37,9 +37,11 @@ HospitalManagementSystem/
 │   │   ├── Doctor.java
 │   │   ├── Patient.java
 │   │   └── Appointment.java
+│   ├── sql/
+│   │   └── schema.sql       
 │   └── Main.java
-├── HospitalDB.sql
-└── README.md
+├── README.md
+
 ```
 
 ---
